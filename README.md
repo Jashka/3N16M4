@@ -1,4 +1,7 @@
 # 3N16M4
-A modern encryption device suitable for all forms of secrecy.
+An encryption program suitable for all forms of secrecy.
+
+This program utilizes technologies based around the Enigma machine.
+
 Copyright (C) Jacob Schaub.
 Copyright (C) 2017, All Rights Reserved.
